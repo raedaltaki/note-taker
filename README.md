@@ -46,6 +46,9 @@ WHEN I click on the Write icon in the navigation at the top of the page
 
 THEN I am presented with empty fields to enter a new note title and the noteâ€™s text in the right-hand column
 
+![Image 1](./public/assets/images/note-taker-01.png)
+![Image 2](./public/assets/images/note-taker-02.png)
+
   Deployed Application: https://protected-woodland-36311.herokuapp.com/
 
 
